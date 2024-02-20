@@ -1,0 +1,279 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.profielfoto{
+    display: flex;
+    float: right;
+    margin-right: -35px;
+    margin-top: 25px;
+}
+
+body{
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 1em;
+    margin-right: 1em;
+    background-image: url(/Users/rutgercruijs/Desktop/herkansing_pr1/images/screenshot_voor_achtergrond.png);
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: #406020;
+    border-radius: 25px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.introtext{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.eerste_keer{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.onderzoek{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.link_1{
+    color: #DCC0A3;
+    text-decoration: none;
+    background-color: black;
+    padding: 27px;
+    font-weight: bold;
+}
+
+.link_2{
+    color: #DCC0A3;
+    text-decoration: none;
+    background-color: black;
+    padding: 27px;
+    font-weight: bold;
+}
+
+.link_3{
+    color: #DCC0A3;
+    text-decoration: none;
+    background-color: black;
+    padding: 27px;
+    font-weight: bold;
+}
+
+.link_4{
+    color: #DCC0A3;
+    text-decoration: none;
+    background-color: black;
+    padding: 27px;
+    font-weight: bold;
+}
+
+.link_home{
+    text-decoration: none;
+}
+
+a:focus{
+    color: black;
+}
+
+.duurzaamheid{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.woonboten{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.werkruimtes{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.slim{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.cultureel{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.toegankelijk{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.eerder{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.idee{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.geweldig{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.hout{
+    text-align: right;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+.hoop{
+    text-align: left;
+    background-color: #406020;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+nav{
+    position: fixed;
+    bottom: 5%;
+    left: 0%;
+    width: 100%;
+}
+
+.lege_ruimte{
+    margin: 100px;
+}
+
+.editie{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    padding-left: 140px;
+    margin: -15px;
+}
+
+.boot{
+    width: 375px;
+    max-width: 120%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.paden_prul{
+    width: 375px;
+    margin-left: -56px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.boef{
+    width: 375px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: -56px;
+}
+
+.graffiti{
+    width: 375px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: -56px;
+}
+
+.lampjes{
+    width: 375px;
+    margin-left: -56px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.ingang{
+    width: 375px;
+    margin-left: -56px;
+    height: auto;
+    border-radius: 20px;
+}
